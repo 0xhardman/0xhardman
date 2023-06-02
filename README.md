@@ -1,5 +1,18 @@
 ### Hi there 👋
-This is 0xhardman, a guy with goal of fullstack developer.
+This is
+
+```md
+   __           __                         __                                  
+ /'__`\        /\ \                       /\ \                                 
+/\ \/\ \  __  _\ \ \___      __     _ __  \_\ \    ___ ___      __      ___    
+\ \ \ \ \/\ \/'\\ \  _ `\  /'__`\  /\`'__\/'_` \ /' __` __`\  /'__`\  /' _ `\  
+ \ \ \_\ \/>  </ \ \ \ \ \/\ \L\.\_\ \ \//\ \L\ \/\ \/\ \/\ \/\ \L\.\_/\ \/\ \ 
+  \ \____//\_/\_\ \ \_\ \_\ \__/.\_\\ \_\\ \___,_\ \_\ \_\ \_\ \__/.\_\ \_\ \_\
+   \/___/ \//\/_/  \/_/\/_/\/__/\/_/ \/_/ \/__,_ /\/_/\/_/\/_/\/__/\/_/\/_/\/_/
+                                                                               
+```
+
+a guy with goal of fullstack developer.
 
 - 🔭 I’m currently working on LXDAO, BeWater
 - 🌱 I’m currently learning React, Python, Solidity.
